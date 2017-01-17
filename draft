@@ -1,0 +1,11 @@
+#!/bin/sh
+
+#
+# IP
+#
+hostname -i
+
+#
+# pmap
+#
+pmap $PID
